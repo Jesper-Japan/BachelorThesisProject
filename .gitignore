@@ -1,0 +1,16 @@
+out/
+examples/
+sprites/
+gvg.iml
+doc/
+.idea/
+README.md
+actionsFile_aliens_lvl0.txt
+build.xml
+/bin/
+.project
+.classpath
+*.txt
+*.csv
+src/Test.java
+Saved Neural Networks/
